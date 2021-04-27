@@ -19,9 +19,13 @@ By spotting the clusters of items we can see which neighborhood has density of r
 
 For Downtown Toronto Clusters:
 Label 0: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having coffee shops, restaurants, Cafes, park and pub.
+
 Label 1: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having park, playground, yoga studio, dance studio etc.
+
 Label 2: There are many neighborhoods which fall to this cluster. The neighborhoods belonging to this cluster are popular for having coffee shops, cafe's, Different cuisine restaurants(American, Italian, Japanese etc), Bar, pub etc
+
 Label 3: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having Airport Lounge, Airport Service, Airport Terminal, Boat Ferry, Rental car location etc.
+
 Label 4: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having Grocery store, candy store, baby store, park, restaurant, Athletic&Sports, cafe.
 
 ## Recommendation 
