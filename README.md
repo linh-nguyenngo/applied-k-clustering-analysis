@@ -18,6 +18,7 @@ Using K-Means Clustering Approach : We using K-means clustering to cluster the u
 By spotting the clusters of items we can see which neighborhood has density of restaurant business. Then, we explore closer into smaller neighborhoods of Downtown and list top 10 most common venues of each labelled area. 
 
 For Downtown Toronto Clusters:
+
 Label 0: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having coffee shops, restaurants, Cafes, park and pub.
 
 Label 1: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having park, playground, yoga studio, dance studio etc.
