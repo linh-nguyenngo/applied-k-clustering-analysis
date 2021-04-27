@@ -10,6 +10,7 @@ Now after finding the most common venue from Downtown Toronto, Toronto we can co
 ## Methodology
 Clustering Approach:
 To compare the neighborhoods, we decided to explore them, segment them, and group them into clusters. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
+
 Using K-Means Clustering Approach : We using K-means clustering to cluster the unlabel dataset neighborhood from several category in Foursquare API.
 
 ## Result
@@ -28,6 +29,6 @@ Label 3: Very few neighborhoods fall to this cluster. The neighborhoods belongin
 Label 4: Very few neighborhoods fall to this cluster. The neighborhoods belonging to this cluster are popular for having Grocery store, candy store, baby store, park, restaurant, Athletic&Sports, cafe.
 
 ## Recommendation 
-We see that neighborhoods of Label2 has a lot of foreign cuisine restaurants. So opening a restaurant here will face high competition.
-Also, neighborhoods of Label1 Downtown toronto provides for some recreational places such as Gyms, Parks, yoga studio, dance studio etc , so there is opportunity for the restaurant to attract customers.
+We see that neighborhoods of Label 2 has a lot of foreign cuisine restaurants. So opening a restaurant here will face high competition.
+Also, neighborhoods of Label 1 Downtown toronto provides for some recreational places such as Gyms, Parks, yoga studio, dance studio etc , so there is opportunity for the restaurant to attract customers.
 Also by looking at the venues of Label3 of Downtown Toronto it seems like it is nearby airport, so opening a restaurant here is ok but not the best option. 
